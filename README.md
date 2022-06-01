@@ -4,6 +4,6 @@
 - 🌱 I love cakes
 - 💞️ I’m happy to collaborate on Solana projects as backend developper or advisor for tokenomics, project development and blockchain integration.
 - 📫 How to reach me t.me/biboux
-
+- 🤫 Hands on Secret network / near
 <!---
 --->
