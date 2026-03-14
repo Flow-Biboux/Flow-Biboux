@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @Flow-Biboux or TakT#3681
-- 👀 I’m developping blockchain applications on Solana mainly (Rust/React) 
-- 🔨 Building projects: OneAuth: Email login wallet with 2FA for Blockchain. (OneAuth.one)
-- 🌱 I love cakes
-- 💞️ I’m happy to collaborate on Solana projects as backend developper or advisor for tokenomics, project development and blockchain integration.
-- 📫 How to reach me t.me/biboux
-- 🤫 Hands on Secret network / near
-<!---
---->
+👋 Hi, I’m Biboux (@Flow-Biboux)
+
+5 years of experience (march 2021) Solana smart contract engineer specializing in Rust, Anchor and full-stack Web3 applications.
+
+I’ve been building on Solana since the early ecosystem days, working on DeFi, NFT infrastructure and protocol design.
+
+🔨 Current work  
+• RaidArena — Non-binary prediction market
+• OneAuth — email-based wallet authentication with 2FA for blockchain apps  
+• Solana smart contracts & dApp architecture  
+• Security-focused protocol development
+
+🧠 Expertise  
+• Solana / SVM architecture  
+• Rust & Anchor & Pinocchio smart contracts
+• Infrastructure
+• Tokenomics & protocol design  
+• Full-stack dApps (React / TypeScript / RPC integration)
+
+💬 Open to  
+• consulting  
+• audits  
+• architecture reviews  
+• mentoring developers entering Solana
+
+📫 Contact  
+Telegram: t.me/biboux
