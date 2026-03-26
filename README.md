@@ -12,7 +12,7 @@ I’ve been building on Solana since the early ecosystem days, working on DeFi, 
 
 🧠 Expertise  
 • Solana / SVM architecture  
-• Rust & Anchor & Pinocchio smart contracts
+• Rust core & Anchor & Pinocchio smart contracts
 • Infrastructure
 • Tokenomics & protocol design  
 • Full-stack dApps (React / TypeScript / RPC integration)
